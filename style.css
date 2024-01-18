@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@400&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Mulish', sans-serif;
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+    background: rgb(30, 30, 85);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+
+}
+
+i {
+    color: #fff;
+     
+    
+}
+
+#firstId{
+    padding-left: 65px;
+}
+
+#secondId{
+    padding-left: 55px;
+}
+
+#thirdId{
+    padding-left: 50px;
+}
+span{
+    color: #fff;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+   
+}
+
+
+
+
+.counter{
+    font-size: 70px;
+    color: rgb(250, 162, 68);
+    text-align: center;
+}
+
+
+
